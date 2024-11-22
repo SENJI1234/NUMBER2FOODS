@@ -1,0 +1,77 @@
+[
+    
+    {
+        "id": "1",
+        "name": "banana",
+        "price": "20.00",
+        "img" : "banana.png.png"
+
+    },
+    {
+        "id": "2",
+        "name": "apple",
+        "price": "32.00",
+        "img" : "apple.png"
+
+    },
+    {
+        "id": "3",
+        "name": "guava",
+        "price": "10.00",
+        "img" : "guava.png"
+
+    },
+    {
+        "id": "4",
+        "name": "pineapple",
+        "price": "50.00",
+        "img" : "pineapple.png"
+
+    },
+    {
+        "id": "5",
+        "name": "durian",
+        "price": "30.00",
+        "img" : "durian.png"
+
+    },
+    {
+        "id": "6",
+        "name": "coconut",
+        "price": "40.00",
+        "img" : "coconut.png"
+
+    },
+    {
+        "id": "7",
+        "name": "avocado",
+        "price": "60.00",
+        "img" : "avocado.png"
+
+    },
+    {
+        "id": "8",
+        "name": "cherry",
+        "price": "70.00",
+        "img" : "cherry.png"
+
+    },
+    {
+        "id": "9",
+        "name": "grapes",
+        "price": "80.00",
+        "img" : "grapes.png"
+
+    },
+    {
+        "id": "10",
+        "name": "lemon",
+        "price": "90.00",
+        "img" : "lemon.png"
+
+    }
+   
+
+
+
+]
